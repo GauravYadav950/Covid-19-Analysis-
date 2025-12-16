@@ -9,7 +9,6 @@ The goal of this project is to demonstrate end-to-end data analytics skills in a
 📁 Dataset
 
 Source: Public COVID-19 dataset (CSV format)
-
 Data Includes:
 
 Date
