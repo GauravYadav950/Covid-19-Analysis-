@@ -24,3 +24,17 @@ Deaths
 Active
 
 Granularity: Daily country-level data
+
+🛠️ Tools & Technologies
+
+Python: Data loading, EDA, cleaning, transformation
+
+Libraries: pandas, numpy, matplotlib
+
+SQL Server: Data storage and analytical queries
+
+Power BI: Interactive dashboard & data visualization
+
+Jupyter Notebook / VS Code: Development environment
+
+GitHub: Version control & project documentation
