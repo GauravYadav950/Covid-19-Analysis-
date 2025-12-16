@@ -75,7 +75,7 @@ Exported cleaned dataset for SQL Server & Power BI
 
 4️⃣ SQL Server Analysis
 
-Imported cleaned data into SQL Server
+Connected Python script  into SQL Server
 
 Performed analytical queries such as:
 
