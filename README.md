@@ -106,7 +106,7 @@ The Power BI dashboard includes:
 
 #KPI Cards
 
-      Total Confirmed Cases
+  Total Confirmed Cases
 
   Total Recovered
 
@@ -116,7 +116,7 @@ The Power BI dashboard includes:
 
   Mortality Rate
 
-Visualizations
+#Visualizations
 
   Global COVID-19 map
 
@@ -126,7 +126,7 @@ Visualizations
 
   Case distribution (Active / Recovered / Deaths)
 
-Filters
+#Filters
 
   Country
 
