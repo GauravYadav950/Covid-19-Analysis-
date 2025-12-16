@@ -104,9 +104,9 @@ Designed a clean, professional dashboard layout
 
 The Power BI dashboard includes:
 
-KPI Cards
+#KPI Cards
 
-  Total Confirmed Cases
+      Total Confirmed Cases
 
   Total Recovered
 
