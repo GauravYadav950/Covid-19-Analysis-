@@ -38,7 +38,9 @@ Power BI: Interactive dashboard & data visualization
 Jupyter Notebook / VS Code: Development environment
 
 GitHub: Version control & project documentation
+
 🔍 Project Workflow / Steps
+
 1️⃣ Data Loading (Python)
 
 Loaded raw CSV dataset using pandas
