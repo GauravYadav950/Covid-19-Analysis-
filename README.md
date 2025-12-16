@@ -28,7 +28,7 @@ Granularity: Daily country-level data
 🛠️ Tools & Technologies
 
 Python: Data loading, EDA, cleaning, transformation
-        Libraries: pandas, numpy
+Libraries: pandas, numpy
 
 SQL Server: Data storage and analytical queries
 
