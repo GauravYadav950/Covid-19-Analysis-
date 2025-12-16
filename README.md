@@ -98,3 +98,48 @@ Created calculated measures using DAX
 Built interactive visuals with slicers and filters
 
 Designed a clean, professional dashboard layout
+
+
+📊 Dashboard Overview
+
+The Power BI dashboard includes:
+
+KPI Cards
+
+  Total Confirmed Cases
+
+  Total Recovered
+
+  Total Deaths
+
+  Active Cases
+
+  Mortality Rate
+
+Visualizations
+
+  Global COVID-19 map
+
+  Daily & monthly trend analysis
+
+  Top 10 affected countries
+
+  Case distribution (Active / Recovered / Deaths)
+
+Filters
+
+  Country
+
+  Date range
+
+The dashboard allows users to quickly understand global and country-level COVID-19 trends.
+
+📈 Results & Insights
+
+Identified countries with the highest COVID-19 impact
+
+Observed major infection waves over time
+
+Analyzed recovery and mortality trends
+
+Built a reusable analytics pipeline for public health data
