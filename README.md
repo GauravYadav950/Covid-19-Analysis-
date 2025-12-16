@@ -10,15 +10,9 @@ The goal of this project is to demonstrate end-to-end data analytics skills in a
 
 Source: Public COVID-19 dataset (CSV format)
 Data Includes:
-
 Date
-
 Country / Region
-
 Confirmed Cases
-
 Recovered Cases
-
 Deaths
-
 Granularity: Daily country-level data
