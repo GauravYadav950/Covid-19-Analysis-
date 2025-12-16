@@ -143,3 +143,18 @@ Observed major infection waves over time
 Analyzed recovery and mortality trends
 
 Built a reusable analytics pipeline for public health data
+
+
+🎯 Key Skills Demonstrated
+
+Data Cleaning & EDA
+
+SQL Query Writing
+
+Data Modeling
+
+Dashboard Design
+
+End-to-End Analytics Workflow
+
+Business-ready Data Visualization
